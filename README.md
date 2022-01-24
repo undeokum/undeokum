@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#000&height=300&section=header&text=limjunseok0929&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=limjunseok0929&fontSize=90" />
 <div align="center">
   <h2>안녕하세요! 😀</h2>
   <p><b>학생 프로그래머 임준석입니다!</b></p>
