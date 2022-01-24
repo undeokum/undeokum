@@ -19,6 +19,5 @@
 </div>
 <hr/>
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza" />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseokdev" />
 </div>
