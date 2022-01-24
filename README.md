@@ -21,5 +21,5 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanwoojjang&show_icons=true&theme=gradient" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseok" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseokdev" />
 </div>
