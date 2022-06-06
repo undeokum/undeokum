@@ -6,7 +6,7 @@
 </div>
 <div>
     <h2>What I Use</h2>
-   <img src="https://img.shields.io/badge/JAVASCRIPT-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
 <hr/>
 <div align="center">
