@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>🤓LIM JUNSEOK, STUDENT PROGRAMMER🤓</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7870E5&height=300&text=🤓LIM%20JUNSEOK,%20STUDENT%20PROGRAMMER🤓" />
   <p>JavaScript, TypeScript, PS(BOJ) 등을 공부하고 있는 학생 프로그래머 임준석입니다!</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7870E5&height=300&text=Lim%20Junseok" />
 </div>
 <div align="center">
   <h1>📚What I Use / Studying📚</h1>
