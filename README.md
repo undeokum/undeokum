@@ -25,7 +25,7 @@
   <img src ="https://img.shields.io/badge/MAC-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
 </div>
 <br/>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=limjunseok0929&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=tokyonight" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseok_dev">
