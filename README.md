@@ -1,11 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7870E5&height=300&text=Lim%20Junseok" />
 <div align="center">
-  <h1>LIM JUNSEOK, STUDENT PROGRAMMER</h1>
-  <p>웹을 많이 공부하고 있는 학생 프로그래머 임준석입니다! 😀</p>
+  <h1>🤓LIM JUNSEOK, STUDENT PROGRAMMER🤓</h1>
 </div>
 <div align="center">
-  <h1>What I Use / Studying</h1>
-  <p>저는 이런것들을 사용 / 공부합니다! 📚</p>
+  <h1>📚What I Use / Studying📚</h1>
   <img src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -26,6 +24,7 @@
 </div>
 <br/>
 <div align="center">
+  <h1>🔥My Stats🔥</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=limjunseok0929&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=tokyonight" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseok_dev">
