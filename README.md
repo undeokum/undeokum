@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7870E5&height=300&text=🤓LIM%20JUNSEOK,%20STUDENT%20PROGRAMMER🤓" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7870E5&height=300&text=🤓LIM%20JUNSEOK🤓" />
   <p>JavaScript, TypeScript, PS(BOJ) 등을 공부하고 있는 학생 프로그래머 임준석입니다!</p>
 </div>
 <div align="center">
