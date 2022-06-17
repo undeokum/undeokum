@@ -16,6 +16,7 @@
   <img src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src ="https://img.shields.io/badge/GO-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
   <img src ="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
   <img src ="https://img.shields.io/badge/DISCORD-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
   <img src ="https://img.shields.io/badge/GITHUB-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src ="https://img.shields.io/badge/ITERM2-000000.svg?&style=for-the-badge&logo=iTerm2&logoColor=white"/>
