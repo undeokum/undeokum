@@ -8,6 +8,7 @@
   <img src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src ="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
   <img src ="https://img.shields.io/badge/TAILWIND%20WIND-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
   <img src ="https://img.shields.io/badge/PRISMA-2D3748.svg?&style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img src ="https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
