@@ -35,7 +35,7 @@
 </div>
 <div align="center">
   <h1>😎You Can See Me At...😎</h1>
-  <div><img src ="https://img.shields.io/badge/DISCORD-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/><span>: 임준석#9801</span></div>
-  <div><img src ="https://img.shields.io/badge/GITHUB-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/><span>: limjunseok0929</span></div>
-  <div><span>백준/솔브닥: limjunseok_dev</span></div>
+  <div><img src ="https://img.shields.io/badge/DISCORD-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/><span> : 임준석#9801</span></div>
+  <div><img src ="https://img.shields.io/badge/GITHUB-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/><span> : limjunseok0929</span></div>
+  <div><span>백준/솔브닥 : limjunseok_dev</span></div>
 </div>
