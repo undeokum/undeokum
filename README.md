@@ -31,5 +31,16 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseok_dev"/>
 </div>
 <div align="center">
-  <img src="https://i.ibb.co/dLD2p0F/socials.png" alt="socials" border="0" />
+  <h1>📱Socials📱</h1>
+  <div>
+    <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="100" height="100" />
+    <span>limjunseok0929</span>
+  </div>
+  <div>
+    <img src="https://play-lh.googleusercontent.com/bgOeh2FL7VDOE_cqjxuOGb33ksluOa0q5soAYY64O6TEexR_QxMRDWd_fGgeNiXDhv0" width="100" height="100 "/>
+    <span>임준석#9801</span>
+  </div>
+  <div>
+    <img src="https://cdn.discordapp.com/icons/857583541440348170/26d8790e31cbdb89c082009d4330ba76.webp?size=240" width="100" height="100" />
+   </div>
 </div>
