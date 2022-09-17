@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7870E5&height=300&text=🤓LIM%20JUNSEOK🤓" />
-  <p>JavaScript, TypeScript, PS(BOJ) 등을 공부하고 있는 학생 프로그래머 임준석입니다!</p>
+  <img src="https://i.ibb.co/vDCXKfr/introduce.png" alt="introduce" border="0" />
 </div>
 <div align="center">
   <h1>📚What I Use / Studying📚</h1>
@@ -32,8 +31,5 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseok_dev"/>
 </div>
 <div align="center">
-  <h1>😎You Can See Me At...😎</h1>
-  <div>DISCORD : 임준석#9801</span></div>
-  <div>GITHUB : limjunseok0929</span></div>
-  <div><span>BOJ/SOLVED.AC : limjunseok_dev</span></div>
+  <img src="https://i.ibb.co/dLD2p0F/socials.png" alt="socials" border="0" />
 </div>
