@@ -23,7 +23,6 @@
   <img src ="https://img.shields.io/badge/MAC-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
   <img src ="https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 </div>
-<br/>
 <div align="center">
   <h1>🔥My Stats🔥</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=limjunseok0929&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
@@ -31,6 +30,5 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseok_dev"/>
 </div>
 <div align="center">
-  <h1>📱Socials📱</h1>
   <img src="https://i.ibb.co/dLD2p0F/socials.png" alt="socials" border="0" />
 </div>
