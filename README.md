@@ -30,8 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=tokyonight" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limjunseok_dev"/>
 </div>
-<h1>📱Socials📱</h1>
 <div align="center">
+  <h1>📱Socials📱</h1>
+</div>
+<div>
   <div>
     <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="50" height="50" />
     <span>limjunseok0929</span>
