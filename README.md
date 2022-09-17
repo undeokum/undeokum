@@ -42,5 +42,6 @@
   </div>
   <div>
     <img src="https://cdn.discordapp.com/icons/857583541440348170/26d8790e31cbdb89c082009d4330ba76.webp?size=240" width="100" height="100" />
-   </div>
+    <span>limjunseok_dev</span>
+  </div>
 </div>
