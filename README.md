@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/vDCXKfr/introduce.png" alt="introduce" border="0" />
+  <img src="https://i.ibb.co/TrDWFJn/introduce.png" alt="introduce" border="0" />
 </div>
 <div align="center">
   <h1>📚What I Use / Studying📚</h1>
