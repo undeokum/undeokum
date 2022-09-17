@@ -24,7 +24,7 @@
   <img src ="https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 </div>
 <br/>
-<div align="center">
+<div>
   <h1>🔥My Stats🔥</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=limjunseok0929&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=tokyonight" />
