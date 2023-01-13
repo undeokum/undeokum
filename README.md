@@ -15,7 +15,7 @@
 ![lang](https://img.shields.io/badge/MACOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)
 # Stats
 [![solvedac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlawnstjr)](https://solved.ac/profile/dlawnstjr/)
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=limjunseok0929&show_icons=true&theme=chartreuse-dark&count_private=false)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=limjunseok0929&show_icons=true&theme=chartreuse-dark)
 ![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=chartreuse-dark)
 # Socials
 #### (All IDs are lowercase)
