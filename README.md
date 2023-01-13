@@ -16,7 +16,7 @@
 # Stats
 [![solvedac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlawnstjr)](https://solved.ac/profile/dlawnstjr/)
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=limjunseok0929&show_icons=true&theme=chartreuse-dark&count_private=false)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=chartreuse-dark)
+![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=chartreuse-dark)
 # Socials
 #### (All IDs are lowercase)
 ![lang](https://img.shields.io/badge/GITHUB%20|%20limjunseok0929-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
