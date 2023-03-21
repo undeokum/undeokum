@@ -14,13 +14,11 @@
 ![lang](https://img.shields.io/badge/WINDOWS-0078D4.svg?&style=for-the-badge&logo=Windows11&logoColor=white)
 ![lang](https://img.shields.io/badge/MACOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)
 # Stats
-[![solvedac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlawnstjr)](https://solved.ac/profile/dlawnstjr/)
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=limjunseok0929&show_icons=true&theme=chartreuse-dark)
 ![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=limjunseok0929&layout=compact&theme=chartreuse-dark)
 # Socials
 #### (All IDs are lowercase)
 ![lang](https://img.shields.io/badge/GITHUB%20|%20limjunseok0929-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
-![lang](https://img.shields.io/badge/DISCORD%20|%20임준석%239801-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 ![lang](https://img.shields.io/badge/STACKOVERFLOW%20|%20limjunseok-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white)
 ![lang](https://img.shields.io/badge/NPM%20|%20limjunseok-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 # Website
