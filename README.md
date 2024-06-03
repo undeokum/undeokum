@@ -1,3 +1,3 @@
-# Hi There! My name is Junseok Lim! 😎
+### Hi There! My name is Junseok Lim! 😎
 - FullStack Developer
 - Frontend Designer
