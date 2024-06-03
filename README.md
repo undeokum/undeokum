@@ -6,18 +6,18 @@
 
 ### 저는 주로 이런 기술들을 사용해요. 💪
 
-- 언어
+언어
 
 ![alt](/icons/js.svg) ![alt](/icons/ts.svg) ![alt](/icons/python.svg) ![alt](/icons/dart.svg)
 
-- 프론트엔드
+프론트엔드
 
 ![alt](/icons/html.svg) ![alt](/icons/css.svg) ![alt](/icons/react.svg) ![alt](/icons/next.svg)
 
-- 백엔드 & 데이터베이스
+백엔드 & 데이터베이스
 
 ![alt](/icons/mongo.svg) ![alt](/icons/firebase.svg)
 
-- 그 외
+그 외
 
 ![alt](/icons/vercel.svg)
