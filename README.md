@@ -2,7 +2,7 @@
 - Korean 🇰🇷
 - FullStack Developer
 - Frontend Designer
-- FEARNOT 🖤 (2023.11.01 ~ )
+- FEARNOT 🩵 (2023.11.01 ~ )
 
 ### My Skills 💪
 - HTML
