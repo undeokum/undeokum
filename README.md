@@ -7,7 +7,6 @@
 ### 저는 주로 이런 기술들을 사용해요. 💪
 
 언어
-
 ![alt](/icons/js.svg) ![alt](/icons/ts.svg) ![alt](/icons/python.svg) ![alt](/icons/dart.svg)
 
 프론트엔드
