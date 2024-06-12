@@ -8,7 +8,7 @@
 
 ### 저는 주로 이런 기술들을 사용해요
 
-언어
+프로그래밍 언어
 
 ![alt](/img/icons/js.svg) ![alt](/img/icons/ts.svg) ![alt](/img/icons/python.svg) ![alt](/img/icons/dart.svg)
 
