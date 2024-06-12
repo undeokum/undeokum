@@ -1,4 +1,6 @@
-### 안녕하세요! 개발자 임준석이라고 합니다
+![alt](/img/banner.svg)
+
+### 임준석은 어떤 사람일까요?
 
 - 한국인 개발자에요.
 - 주로 풀스택 개발에 도전하고 있어요.
@@ -8,16 +10,16 @@
 
 언어
 
-![alt](/icons/js.svg) ![alt](/icons/ts.svg) ![alt](/icons/python.svg) ![alt](/icons/dart.svg)
+![alt](/img/icons/js.svg) ![alt](/img/icons/ts.svg) ![alt](/img/icons/python.svg) ![alt](/img/icons/dart.svg)
 
 프론트엔드
 
-![alt](/icons/html.svg) ![alt](/icons/css.svg) ![alt](/icons/react.svg) ![alt](/icons/next.svg)
+![alt](/img/icons/html.svg) ![alt](/img/icons/css.svg) ![alt](/img/icons/react.svg) ![alt](/img/icons/next.svg)
 
 백엔드 & 데이터베이스
 
-![alt](/icons/mongo.svg) ![alt](/icons/firebase.svg)
+![alt](/img/icons/mongo.svg) ![alt](/img/icons/firebase.svg)
 
 그 외
 
-![alt](/icons/vercel.svg)
+![alt](/img/icons/vercel.svg)
