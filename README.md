@@ -25,4 +25,4 @@
 
 ![alt](/img/icons/vercel.svg)
 
-[프로필 웹사이트](https://undeokum.com/)
+[포트폴리오 웹사이트](https://limjunseok.com/)
