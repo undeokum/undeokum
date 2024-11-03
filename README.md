@@ -26,3 +26,4 @@
 ![alt](/img/icons/vercel.svg)
 
 [포트폴리오 웹사이트](https://limjunseok.com/)
+![alt](/img/banner2.svg)
